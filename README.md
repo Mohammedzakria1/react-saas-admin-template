@@ -1,95 +1,63 @@
-# React + Vite
+# React SaaS Admin Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A powerful and modern React SaaS Admin Dashboard Template built for startups, developers, and agencies.
 
-Currently, two official plugins are available:
+This template helps you launch SaaS products faster with a clean UI and scalable architecture.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📊 Analytics Dashboard with charts
+- 👥 Multi-user system UI
+- 🧠 AI Analytics section
+- 📦 Projects & CRM layout
+- 💳 Billing & Stripe-ready UI
+- 📌 Drag & Drop Kanban board
+- 🌙 Dark/Light mode support
+- ⚡ Fully responsive design
+- 🎨 Modern SaaS UI/UX
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
 
-# 🚀 Modern Full Stack SaaS Dashboard UI
-
-A modern and responsive full stack SaaS dashboard built using React, Node.js, Express, MongoDB, and Tailwind CSS.
-
-Perfect for:
-
-- SaaS startups
-- Admin panels
-- CRM systems
-- Analytics platforms
-- Developer products
-- Agency dashboards
-
-# Features
-
-## Dashboard
-
-- Revenue analytics
-- User statistics
-- Activity overview
-- Growth tracking
-- Responsive cards
-
-## Analytics
-
-- Charts and graphs
-- Performance metrics
-- Traffic analytics
-- Conversion tracking
-
-## Projects
-
-- Project management UI
-- Status tracking
-- Team collaboration layout
-
-## Customers
-
-- Customer list
-- Search and filter UI
-- Customer profile cards
-
-## Billing
-
-- Subscription plans
-- Payment history
-- Invoice UI
-- Billing settings
-
-## Settings
-
-- User profile settings
-- Theme settings
-- Notification preferences
-
-# 🛠️ Tech Stack
-
-## Frontend
-
-- React.js
+- React (Vite)
 - Tailwind CSS
-- React Icons
 - Framer Motion
+- Recharts
+- Axios
+- @hello-pangea/dnd
 
-## Dashboard Preview
+---
 
-Add your screenshots here.
+## 📸 Preview
 
-Example:
+Add screenshots here:
 
-```md
-![Dashboard](./screenshots/dashboard.png)
-![Analytics](./screenshots/analytics.png)
+---
+
+## 💰 License
+
+This project is available for purchase on Gumroad / Flippa.
+
+---
+
+## ⚡ Getting Started
+
+```bash
+npm install
+npm run dev
 ```
 
-# start project with:
+---
 
-npm run dev
+# ✅ After replacing README
+
+Run:
+
+```bash
+git add README.md
+git commit -m "fix merge conflict and update README"
+git push
+```
